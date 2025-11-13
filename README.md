@@ -1,6 +1,6 @@
 # Hi there 👋, I'm P6anav
 
-I'm a software engineer and tech enthusiast shaping the future of technology in 2026. I build scalable applications, experiment with AI & Web3, and explore the latest in cloud and DevOps.  
+I'm a software engineer and tech enthusiast shaping the future of technology in 2040. I build scalable applications, experiment with AI & Web3, and explore the latest in cloud and DevOps.  
 
 ---
 
